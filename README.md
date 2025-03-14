@@ -1,7 +1,7 @@
 # test_repo
 this repository is  test repository
-<<<<<<< HEAD
+
+
+tori3-po4
 niconico
-=======
 hrpfee
->>>>>>> main
